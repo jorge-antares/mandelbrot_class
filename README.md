@@ -1,2 +1,2 @@
-#h1 mandelbrot_class
+# mandelbrot_class
 Python class for graphical depiction of the Mandelbrot set.
