@@ -44,7 +44,9 @@ class Mandelbrot:
 if __name__ == '__main__':
     M = Mandelbrot(1000)
     M.createPlot(cmap='twilight_shifted_r')
-    M.savePlot(fname='/some/path/mandel.png',
-               dpi=300)
+    M.savePlot(
+        fname='/some/path/mandel.png',
+        dpi=300
+    )
     
 
