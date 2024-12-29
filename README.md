@@ -2,4 +2,4 @@
 
 Python class for graphical depiction of the Mandelbrot set.
 
-![Test] mandel.png
+![Test] (mandel.png)
