@@ -1,3 +1,5 @@
-# Mandelbrot python class
+# Mandelbrot python class #
 
 Python class for graphical depiction of the Mandelbrot set.
+
+mandel.png
